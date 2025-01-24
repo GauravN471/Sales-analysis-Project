@@ -78,7 +78,7 @@ This project demonstrates the use of Excel for advanced sales analytics, offerin
    - **Excel File**: [Sales Analytics Project.xlsx](./Sales%20analytics%20Project.xlsx)
    - **PDF Reports**:
      - [Customer Performance Report]([./Customer%20Performance%20Report.pdf](https://github.com/GauravN471/Sales-analysis-Project/blob/main/Customer%20Performance%20Report.pdf))
-     - [Division Report](./Division%20Report.pdf)
+     - [Division Report]([./Division%20Report.pdf](https://github.com/GauravN471/Sales-analysis-Project/blob/main/Divison%20Report.pdf))
      - [Market Performance vs Target](./Market%20Performance%20vs%20Target.pdf)
      - [New Product 2021](./New%20Product%202021.pdf)
      - [Top and Bottom Products](./Top%20and%20Bottom%20Products.pdf)
